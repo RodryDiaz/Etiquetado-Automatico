@@ -1,2 +1,2 @@
 # Etiquetado-Automatico
-Practica Profecionalizante Mecatronica II
+Practica Profesionalizante Mecatronica II
